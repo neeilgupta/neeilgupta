@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Neeil Gupta</h1>
 <h3 align="center">A passionate frontend developer from Denver, Colorado. Computer Science student & frontend-leaning full-stack developer building reliable AI-powered products</h3>
 
-- 🔭 I’m currently working on [LiftLogic](https://github.com/neeilgupta/LyftLogic)
+-  I’m currently working on [LiftLogic](https://github.com/neeilgupta/LyftLogic)
 
-- 🌱 I’m currently learning **Advanced frontend architecture with Nuxt 3 & TypeScript, LLM system design (deterministic rule engines, schema validation), and Machine Learning foundations (CS concentration)**
+-  I’m currently learning **Advanced frontend architecture with Nuxt 3 & TypeScript, LLM system design (deterministic rule engines, schema validation), and Machine Learning foundations (CS concentration)**
 
 -  I’m looking to collaborate on **AI-powered web apps or data-driven frontend systems**
 
