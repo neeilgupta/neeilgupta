@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Neeil Gupta</h1>
+<h1 align="center">Hi, I'm Neeil Gupta</h1>
 <h3 align="center">A passionate frontend developer from Denver, Colorado. Computer Science student & frontend-leaning full-stack developer building reliable AI-powered products</h3>
 
 - 🔭 I’m currently working on [LiftLogic](https://github.com/neeilgupta/LyftLogic)
 
 - 🌱 I’m currently learning **Advanced frontend architecture with Nuxt 3 & TypeScript, LLM system design (deterministic rule engines, schema validation), and Machine Learning foundations (CS concentration)**
 
-- 👯 I’m looking to collaborate on **AI-powered web apps or data-driven frontend systems**
+-  I’m looking to collaborate on **AI-powered web apps or data-driven frontend systems**
 
-- 🤝 I’m looking for help with **Scaling and UX polish for LiftLogic (LLM reliability, frontend UX, testing)**
+- I’m looking for help with **Scaling and UX polish for LiftLogic (LLM reliability, frontend UX, testing)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/neeilgupta](https://github.com/neeilgupta)
+-  All of my projects are available at [https://github.com/neeilgupta](https://github.com/neeilgupta)
 
-- 💬 Ask me about **Vue, Nuxt, frontend-backend integration, LLM reliability, schema validation, Docker**
+-  Ask me about **Vue, Nuxt, frontend-backend integration, LLM reliability, schema validation, Docker**
 
-- 📫 How to reach me **neeilgupta12@gmail.com**
+-  How to reach me **neeilgupta12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
